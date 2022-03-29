@@ -1230,4 +1230,4 @@
    
 </p>
 
-<h1 id="policies" data-text="Business Profile APIs policies">
+<h1 id="policies"
